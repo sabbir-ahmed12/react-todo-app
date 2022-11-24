@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": true,
+      "item": "Watch PyTorch tutorial."
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "Read research paper."
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "Implement a NN using PyTorch."
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "Watch documentaries."
+    }
+  ]
+}
